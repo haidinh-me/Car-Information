@@ -1,0 +1,22 @@
+{
+  "DOOR": {
+    "fl": "false",
+    "fr": "false",
+    "rl": "false",
+    "rr": "true"
+  },
+  "FAN": {
+    "Chay": false,
+    "Khoi": false,
+    "engine": true,
+    "maxcool": false,
+    "value_speed": 48
+  },
+  "FUEL": {
+    "status": "62"
+  },
+  "TEMP": {
+    "humi": 87,
+    "tem": 30.1
+  }
+}
